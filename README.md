@@ -15,20 +15,20 @@ I'm an full-stack developer and I work one step at a time. All coding projects a
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)]()
-[![website](./img/globe-dark.svg)]()
+[![website](./img/globe-light.svg)](https://google.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://google.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)]()
-[![website](./img/youtube-dark.svg)]()
+[![website](./img/youtube-light.svg)](https://google.com#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://google.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)]()
-[![website](./img/twitter-dark.svg)]()
+[![website](./img/twitter-light.svg)](https://google.com#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://google.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)]()
-[![website](./img/linkedin-dark.svg)]()
+[![website](./img/linkedin-light.svg)](https://google.com#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://google.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]()
-[![website](./img/instagram-dark.svg)]()
+[![website](./img/instagram-light.svg)](https://google.com#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://google.com#gh-dark-mode-only)
 
 ---
 
