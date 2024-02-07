@@ -13,4 +13,22 @@ I'm an full-stack developer and I work one step at a time. All coding projects a
 
 ---
 
+### Connect with me:
+
+[![website](./img/globe-light.svg)]()
+[![website](./img/globe-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)]()
+[![website](./img/youtube-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)]()
+[![website](./img/twitter-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)]()
+[![website](./img/linkedin-dark.svg)]()
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)]()
+[![website](./img/instagram-dark.svg)]()
+
+---
 
