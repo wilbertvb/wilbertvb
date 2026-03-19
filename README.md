@@ -15,25 +15,6 @@ I mostly work in back-end and AI stuff - Bash, Linux, Java, Spring Boot, Spring 
 
 ---
 
-### :calling: Connect with me:
-
-[![website](./img/globe-light.svg)](https://google.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://google.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://google.com#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://google.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://google.com#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://google.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://google.com#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://google.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://google.com#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://google.com#gh-dark-mode-only)
-
----
-
 ### :hammer: Languages and Tools
 
  <a href="https://openjdk.org/" target="_blank">
