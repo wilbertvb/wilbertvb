@@ -2,7 +2,9 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm an full-stack developer and I work one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+Hi there. I am Wilbert Valverde Barrantes, a software enginner based in San Jose, Costa Rica.
+
+I mostly work in back-end and AI stuff - Bash, Linux, Java, Spring Boot, Spring AI and learning rust.
 
   <p align="left">
       <a href="https://github.com/wilbertvb?tab=followers">
