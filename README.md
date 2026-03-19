@@ -81,7 +81,6 @@ I mostly work in back-end and AI stuff - Bash, Linux, Java, Spring Boot, Spring 
  </a>
 <a href="https://github.com/SonarSource/sonarqube" target="_blank">
         <img align="left" alt="Sonarqube" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg"/>
-  SonarQube
  </a>
  <a href="https://www.mysql.com/" target="_blank">
         <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
